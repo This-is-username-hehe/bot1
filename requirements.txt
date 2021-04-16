@@ -1,0 +1,21 @@
+aiohttp==3.6.2
+async-timeout==3.0.1
+attrs==19.3.0
+certifi==2019.11.28
+chardet==3.0.4
+idna==2.8
+multidict==4.7.6
+pip==19.2.3
+requests==2.22.0
+setuptools==41.2.0
+six==1.13.0
+urllib3==1.25.7
+vk-api==11.6.1
+yarl==1.4.2
+PyMySQL==0.10.1
+paperscrollsdk==1.0.0
+vkbottle @ https://github.com/timoniq/vkbottle/archive/master.zip
+vkbottle-types @ https://github.com/timoniq/vkbottle-types/archive/master.zip
+bs4==0.0.1
+beautifulsoup4==4.9.3
+sql==0.4.0
